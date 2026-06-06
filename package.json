@@ -1,16 +1,25 @@
 {
   "name": "@hexlet/code",
-  "version": "1.0.1",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Maxim-Satanic/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Maxim-Satanic/frontend-project-44/actions)",
+  "main": "index.js",
   "bin": {
     "brain-games": "bin/brain-games.js"
   },
-  "description": "",
-  "main": "index.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxim-Satanic/frontend-project-44.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Maxim-Satanic/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/Maxim-Satanic/frontend-project-44#readme"
 }
