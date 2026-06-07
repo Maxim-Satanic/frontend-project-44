@@ -25,3 +25,11 @@
 
 ### Поражение в игре «НОД»
 [![asciicast](https://asciinema.org/a/qJnza02eB9Jm1c9K)]
+
+### Примеры работы в игре «Арифметическая прогрессия»
+
+### Победа в игре «Арифметическая прогрессия»
+[![asciicast](https://asciinema.org/a/ZdR9dzPLkCPqx2LK)]
+
+### Поражение в игре «Арифметическая прогрессия»
+[![asciicast](https://asciinema.org/a/K3Wz0Bz5IRu8a6Un)]
