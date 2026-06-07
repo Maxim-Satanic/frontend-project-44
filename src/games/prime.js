@@ -18,7 +18,7 @@ const getQuestionAndAnswer = () => {
   const correctAnswer = isPrime(number) ? 'yes' : 'no';
 
   return {
-    question: `Is ${number} a prime number?`,
+    question: String(number),
     answer: correctAnswer,
   };
 };

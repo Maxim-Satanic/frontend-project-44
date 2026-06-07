@@ -37,7 +37,7 @@
 ### Примеры работы в игре «Простое ли число?»
 
 ### Победа в игре «Простое ли число?»
-[![asciicast](https://asciinema.org/a/VkpXcvtYPTXRYywI)]
+[![asciicast](https://asciinema.org/a/gwLpJ0YhkeQBEiNA)]
 
 ### Поражение в игре «Простое ли число?»
-[![asciicast](https://asciinema.org/a/SrtxtXkCl4ZEz3ii)]
+[![asciicast](https://asciinema.org/a/LNK03lnfaQgyO4H5)]
