@@ -33,3 +33,11 @@
 
 ### Поражение в игре «Арифметическая прогрессия»
 [![asciicast](https://asciinema.org/a/K3Wz0Bz5IRu8a6Un)]
+
+### Примеры работы в игре «Простое ли число?»
+
+### Победа в игре «Простое ли число?»
+[![asciicast](https://asciinema.org/a/VkpXcvtYPTXRYywI)]
+
+### Поражение в игре «Простое ли число?»
+[![asciicast](https://asciinema.org/a/SrtxtXkCl4ZEz3ii)]
